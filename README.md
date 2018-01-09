@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎访问《现代操作系统应用开发》课程网站
 
 You can use the [editor on GitHub](https://github.com/gfzheng/MOSAD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
