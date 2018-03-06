@@ -1,37 +1,49 @@
 ## 欢迎访问《现代操作系统应用开发》课程网站
+* 2018学年春季学期
+* **课程时间(1-19):** 
+	- 教学1班 : 星期四 5-6节 / 7-8节
+	- 教学2班 : 星期五 1-2节 / 3-4节
+* **课程地点：** 
+	- 教学1班 : B202
+	- 教学2班 : B201
 
-You can use the [editor on GitHub](https://github.com/gfzheng/MOSAD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### **通知(望大家相互转告)**
+课程QQ交流群：**587133450**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----
 
-### Markdown
+### Teaching Staff
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * **Instructor:**
+	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
+  * TAs:
+    * 孔令爽：E_mail:<>
+    * 余明静：E_mail:<>
+    * 周林 : E_mail:<1696837023@qq.com>
+    * 黄泳锋：E_mail:<>
+    * 卢嘉熙：E_mail:<>
+    * 林伟涵 : E_mail:<>
 
-```markdown
-Syntax highlighted code block
+----
 
-# Header 1
-## Header 2
-### Header 3
+### Homework Requirements
+  * **Submit Address:** ftp://222.200.180.106/MOSAD2018/
+  * **Deadline:**  指定周实验课的前一天晚上23:59
+  * **Name:**   SID_Name_labX.zip   **(eg: 1530000_陈XX_lab1.zip)**
+  * **Hand In:**   Source Code and Lab Report **清理解决方案、PDF**
+  * **Format:**
+注：根目录为文件夹
+ <pre>   15331111_huashen_lab1 --
+                        |
+                        --  lab1实验报告.pdf
+                        |
+                        --  lab1_code（包含项目代码文件）
+</pre>
+ [实验报告模板](https://github.com/gfzheng/MAD/blob/master/Materials/ReportTemplate.docx)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Letures
 
-**Bold** and _Italic_ and `Code` text
+----
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gfzheng/MOSAD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week 1 windows平台概览 & C#入门 
