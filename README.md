@@ -1,6 +1,6 @@
 ## 欢迎访问《现代操作系统应用开发》课程网站
 * 2018学年春季学期
-* **课程时间(1-19):** 
+* **课程时间(1-19周):** 
 	- 教学1班 : 星期四 5-6节 / 7-8节
 	- 教学2班 : 星期五 1-2节 / 3-4节
 * **课程地点：** 
@@ -17,12 +17,12 @@
   * **Instructor:**
 	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
   * TAs:
-    * 孔令爽：E_mail:<>
-    * 余明静：E_mail:<>
-    * 周林 : E_mail:<1696837023@qq.com>
-    * 黄泳锋：E_mail:<>
-    * 卢嘉熙：E_mail:<>
-    * 林伟涵 : E_mail:<>
+    * 孔令爽：E_mail:<kong1021@qq.com>
+    * 余明静：E_mail:<949657511@qq.com>
+    * 周林：E_mail:<1696837023@qq.com>
+    * 黄泳锋：E_mail:<635051045@qq.com>
+    * 卢家熙：E_mail:<914670787@qq.com>
+    * 林伟涵：E_mail:<seventrap@qq.com>
 
 ----
 
@@ -30,7 +30,7 @@
   * **Submit Address:** ftp://222.200.180.106/MOSAD2018/
   * **Deadline:**  指定周实验课的前一天晚上23:59
   * **Name:**   SID_Name_labX.zip   **(eg: 1530000_陈XX_lab1.zip)**
-  * **Hand In:**   Source Code and Lab Report **清理解决方案、PDF**
+  * **Hand In:**   Source Code and Lab Report **(清理解决方案、PDF)**
   * **Format:**
 注：根目录为文件夹
  <pre>   15331111_huashen_lab1 --
@@ -39,7 +39,7 @@
                         |
                         --  lab1_code（包含项目代码文件）
 </pre>
- [实验报告模板](https://github.com/gfzheng/MAD/blob/master/Materials/ReportTemplate.docx)
+ [实验报告模板](https://github.com/gfzheng/MOSAD/blob/master/Materials/ReportTemplate.docx)
 
 
 ## Letures
