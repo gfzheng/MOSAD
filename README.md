@@ -15,7 +15,7 @@
 ### Teaching Staff
 
   * **Instructor:**
-	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
+	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)：Email:<zhenggf@mail.sysu.edu.cn>
   * TAs:
     * 孔令爽：E_mail:<kong1021@qq.com>
     * 余明静：E_mail:<949657511@qq.com>
@@ -46,4 +46,8 @@
 
 ----
 
-### Week 1 windows平台概览 & C#入门 
+### Week 1 windows平台概览 & C#入门
+
+* Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/01-UWPOverview.pptx" target="_blank">01-UWP概览.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week1.pptx" target="_blank">week1.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/MainPage.xaml.cs" target="_blank">实验文件</a>
+* Homework 1: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework1 需求文档.docx" target="_blank">Homework1需求文档</a>
