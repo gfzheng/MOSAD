@@ -1,5 +1,5 @@
 ## 欢迎访问《现代操作系统应用开发》课程网站
-* 2018学年春季学期
+* 2017学年春季学期
 * **课程时间(1-19周):** 
 	- 教学1班 : 星期四 5-6节 / 7-8节
 	- 教学2班 : 星期五 1-2节 / 3-4节
@@ -46,7 +46,7 @@
 
 ----
 
-### Week 1 windows平台概览 & C#入门
+### Week 1 Windows平台概览 & C#入门
 
 * Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/01-UWPOverview.pptx" target="_blank">01-UWP概览.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week1.pptx" target="_blank">week1.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/MainPage.xaml.cs" target="_blank">实验文件</a>
