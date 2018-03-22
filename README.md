@@ -64,5 +64,5 @@
 
 ### Week 3 Data Binding & Performance
 
-* Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/06-XAMLDataBinding.pptx" target="_blank">06-XAMLDataBinding.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/07-XAMLPerformance.pptx" target="_blank">07-XAMLPerformance.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/05-AdaptiveCode.pptx" target="_blank">05-AdaptiveCode.pptx(optional)</a>
+* Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/06-XAMLDataBinding.pptx" target="_blank">06-XAMLDataBinding.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/07-XAMLPerformance.pptx" target="_blank">07-XAMLPerformance.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/Data_Binding_Supplement.pdf" target="_blank">Data_Binding_Supplement.pdf</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/05-AdaptiveCode.pptx" target="_blank">05-AdaptiveCode.pptx (optional)</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week3.pptx" target="_blank">week3.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week3.flv" target="_blank">视频附件</a>
