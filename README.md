@@ -71,6 +71,6 @@
 
 ### Week 4 AppLifecycle & Background Excution
 
-* Lectures:  <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/08-Visual Studio(选讲).pptx" target="_blank">08-Visual Studio(选讲).pptx</a>、 <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/09-Edge & Web Apps(选讲).pptx" target="_blank">09-Edge & Web Apps(选讲).pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/10-ApplicationLifecycle.pptx" target="_blank">10-ApplicationLifecycle.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/11-BackgroundExecution.pptx" target="_blank">11-BackgroundExecution</a>
+* Lectures:  <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/08-VisualStudio(选讲).pptx" target="_blank">08-Visual Studio(选讲).pptx</a>、 <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/09-Edge&WebApps(选讲).pptx" target="_blank">09-Edge & Web Apps(选讲).pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/10-ApplicationLifecycle.pptx" target="_blank">10-ApplicationLifecycle.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/11-BackgroundExecution.pptx" target="_blank">11-BackgroundExecution</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week4.pptx" target="_blank">week4.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week4.mp4" target="_blank">视频附件</a>
 * Homework 2: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework2 需求文档.docx" target="_blank">Homework2 需求文档</a>
