@@ -76,3 +76,10 @@
 * Lectures:  <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/08-VisualStudio(选讲).pptx" target="_blank">08-VisualStudio(选讲).pptx</a>、 <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/09-Edge&WebApps(选讲).PPTX" target="_blank">09-Edge&WebApps(选讲).pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/10-ApplicationLifecycle.pptx" target="_blank">10-ApplicationLifecycle.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/11-BackgroundExecution.pptx" target="_blank">11-BackgroundExecution</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week4.pptx" target="_blank">week4.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week4.mp4" target="_blank">视频附件</a>
 * Homework 2: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework2 需求文档.docx" target="_blank">Homework2 需求文档</a>
+
+----
+
+### Week 5 Live Tiles & App to App Communication
+
+* Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/12-CloudIntegration(选讲).pptx" target="_blank">12-CloudIntegration(选讲).pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/13-LiveTilesNotifications.pptx" target="_blank">13-LiveTilesNotifications.pptx</a>、 <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/14-MorePersonalComputing（选讲）.pptx" target="_blank">14-MorePersonalComputing（选讲）.pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/15-ApptoAppCommunication.pptx" target="_blank">15-ApptoAppCommunication.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week5.pptx" target="_blank">week5.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/LiveTilesandNotifications官方文档.docx" target="_blank">Live Tiles and Notifications官方文档.docx</a>
