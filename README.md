@@ -83,3 +83,10 @@
 
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/12-CloudIntegration(选讲).pptx" target="_blank">12-CloudIntegration(选讲).pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/13-LiveTilesNotifications.pptx" target="_blank">13-LiveTilesNotifications.pptx</a>、 <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/14-MorePersonalComputing（选讲）.pptx" target="_blank">14-MorePersonalComputing（选讲）.pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/15-ApptoAppCommunication.pptx" target="_blank">15-ApptoAppCommunication.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week5.pptx" target="_blank">week5.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/LiveTilesandNotifications官方文档.docx" target="_blank">Live Tiles and Notifications官方文档.docx</a>
+
+----
+
+### Week 6 File Management & SQLite Database
+
+* Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week6FileManagement.pptx" target="_blank">week6FileManagement.pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week6SQLiteDatabase.pptx" target="_blank">week6SQLiteDatabase.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week6.pptx" target="_blank">week6.pptx</a>
