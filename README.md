@@ -50,6 +50,7 @@
 ### Week 1 Windows平台概览 & C#入门
 
 * Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/01-UWPOverview.pptx" target="_blank">01-UWP概览.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/tree/master/Keynotes/C%23_Tutorial" target="_blank">C#-Tutorial</a>
+
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week1.pptx" target="_blank">week1.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/MainPage.xaml.cs" target="_blank">实验文件</a>
 * Homework 1: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework1 需求文档.docx" target="_blank">Homework1需求文档</a>
 
@@ -89,4 +90,10 @@
 ### Week 6 File Management & SQLite Database
 
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week6FileManagement.pptx" target="_blank">week6FileManagement.pptx</a>、<a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week6SQLiteDatabase.pptx" target="_blank">week6SQLiteDatabase.pptx</a>
-* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week6.pptx" target="_blank">week6.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week6.pptx" target="_blank">week6.pptx</a> 
+----
+
+### Week 7 Network Access
+
+* Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week7网络访问.pptx" target="_blank">week7.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week7.pptx" target="_blank">week7.pptx</a> 
