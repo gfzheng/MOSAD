@@ -47,6 +47,7 @@
 ----
 
 ### Week 1 Windows平台概览 & C#入门3
+
 * Lectures: <a  href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/01-UWPOverview.pptx" target="_blank">01-UWP概览.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/tree/master/Keynotes/C%23_Tutorial" target="_blank">C#-Tutorial</a>
 
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week1.pptx" target="_blank">week1.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/MainPage.xaml.cs" target="_blank">实验文件</a>
@@ -96,6 +97,7 @@
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2018期中project要求.docx" target="_blank">期中要求.docx</a>
 * 项目计划书: <a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/项目计划书.xlsx" target="_blank">项目计划书.xlsx</a>
 * 实验报告模板: <a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/期中project实验报告模板.doc" target="_blank">实验报告模板.doc</a>
+
 ----
 
 ### Week 7 Network Access
