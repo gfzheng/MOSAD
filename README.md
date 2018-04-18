@@ -97,3 +97,4 @@
 
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week7网络访问.pptx" target="_blank">week7.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week7.pptx" target="_blank">week7.pptx</a> 
+* Homework 2: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework3 需求文档.docx" target="_blank">Homework3 需求文档</a>
