@@ -106,3 +106,10 @@
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week7网络访问.pptx" target="_blank">week7.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week7.pptx" target="_blank">week7.pptx</a> 
 * Homework 3: <a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework3需求文档.docx" target="_blank">Homework3 需求文档</a>
+
+----
+
+### Week 8 多媒体应用
+
+* Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week8.pptx" target="_blank">week8.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/微软认知服务.pptx" target="_blank">微软认知服务.pptx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week8.pptx" target="_blank">week8.pptx</a> 、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week8_demo.zip" target="_blank">视频附件</a>
