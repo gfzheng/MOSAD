@@ -113,3 +113,10 @@
 
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week8.pptx" target="_blank">week8.pptx</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/微软认知服务.pptx" target="_blank">微软认知服务.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/week8.pptx" target="_blank">week8.pptx</a> 、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week8_demo.zip" target="_blank">视频附件</a>
+
+----
+
+### Week 9 cocos2d-x基础概念概述
+
+* Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week9_cocos2d-x_基础概念概述.pptx" target="_blank">week9_cocos2d-x_基础概念概述.pptx</a>
+
