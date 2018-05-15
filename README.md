@@ -120,3 +120,8 @@
 
 * Lectures:  <a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week9_cocos2d-x_基础概念概述.pptx" target="_blank">week9_cocos2d-x_基础概念概述.pptx</a>
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/homework9-cocos2d-x%E5%88%9D%E6%8E%A2.pptx">homework9</a>
+
+
+### Week 10 cocos2d-x简单游戏元素
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week10_cocos2d-x简单游戏元素.pptx" target="_blank">week10_cocos2d-x_简单游戏元素.pptx</a>
+<!-- * Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2017-homework10.pptx">homework10</a> -->
