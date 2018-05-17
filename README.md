@@ -124,4 +124,4 @@
 
 ### Week 10 cocos2d-x简单游戏元素
 * Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week10_cocos2d-x简单游戏元素.pptx" target="_blank">week10_cocos2d-x_简单游戏元素.pptx</a>
-<!-- * Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2017-homework10.pptx">homework10</a> -->
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2017-homework10.pptx">homework10</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Homework10-Demo.zip">Demo</a>
