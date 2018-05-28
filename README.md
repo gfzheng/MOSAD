@@ -144,5 +144,5 @@
 
 ### 期末项目
 
-* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2018期末project要求.pptx" target="_blank">期末要求.docx</a>
+* Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2018期末project要求.pptx" target="_blank">期末要求.pptx</a>
 * 实验报告模板: <a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/2018期末project实验报告模板.doc" target="_blank">实验报告模板.doc</a>
