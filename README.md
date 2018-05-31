@@ -138,7 +138,7 @@
 
 ### Week 12 cocos2d-x 数据结构，本地存储和tilemap
 * Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week12_tile_map.pptx" target="_blank">week12_tile_map.pptx</a>
-* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework12.pptx">homework12</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week12.mp4">Demo</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework12.pptx">homework12</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week12.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week12-Addition.zip">Additional Files</a>
 
 ----
 
