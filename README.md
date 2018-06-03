@@ -123,22 +123,22 @@
 
 ----
 
-### Week 10 cocos2d-x简单游戏元素
-* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week10_cocos2d-x简单游戏元素.pptx" target="_blank">week10_cocos2d-x_简单游戏元素.pptx</a>
-* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2017-homework10.pptx">homework10</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Homework10-Demo.zip">Demo</a>
+### Week 11 cocos2d-x简单游戏元素
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week11_cocos2d-x简单游戏元素.pptx" target="_blank">week10_cocos2d-x_简单游戏元素.pptx</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2017-homework11.pptx">homework10</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Homework11-Demo.zip">Demo</a>
 
 ----
 
-### Week 11 cocos2d-x ui 调度器 帧动画
-* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week11_ui_调度器_帧动画.pptx" target="_blank">week11_ui_调度器_帧动画.pptx</a>
-* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/homework11.pptx">homework11</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Homework11-Demo.zip">Demo</a>
+### Week 12 cocos2d-x ui 调度器 帧动画
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week12_ui_调度器_帧动画.pptx" target="_blank">week11_ui_调度器_帧动画.pptx</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/homework12.pptx">homework11</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Homework12-Demo.zip">Demo</a>
 
 
 ----
 
-### Week 12 cocos2d-x 数据结构，本地存储和tilemap
-* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week12_tile_map.pptx" target="_blank">week12_tile_map.pptx</a>
-* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework12.pptx">homework12</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week12.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week12-Addition.zip">Additional Files</a>
+### Week 13 cocos2d-x 数据结构，本地存储和tilemap
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week13_tile_map.pptx" target="_blank">week12_tile_map.pptx</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework13.pptx">homework13</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week13.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week13-Addition.zip">Additional Files</a>
 
 ----
 
@@ -146,3 +146,9 @@
 
 * Lab:<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/2018期末project要求.pptx" target="_blank">期末要求.pptx</a>
 * 实验报告模板: <a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/2018期末project实验报告模板.doc" target="_blank">实验报告模板.doc</a>
+
+----
+
+### Week 14 cocos2d-x 事件处理与音效
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week14_事件处理与音效.pptx" target="_blank">week14_事件处理与音效.pptx</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework14.pptx">homework13</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week14-demo.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week14.zip">Additional Files</a>
