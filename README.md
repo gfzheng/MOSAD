@@ -152,3 +152,9 @@
 ### Week 14 cocos2d-x 事件处理与音效
 * Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week14_事件处理与音效.pptx" target="_blank">week14_事件处理与音效.pptx</a>
 * Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework14.pptx">homework14</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week14-demo.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week14.zip">Needed Files</a>
+
+---
+
+### Week 15 cocos2d-x 物理引擎与粒子系统
+* Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week15_物理引擎与粒子系统" target="_blank">week15_物理引擎与粒子系统.pptx</a>
+* Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework15.pptx">homework15</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week15-demo.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week15.zip">Needed Files</a>
