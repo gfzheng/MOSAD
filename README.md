@@ -158,3 +158,9 @@
 ### Week 15 cocos2d-x 物理引擎与粒子系统
 * Lectures：<a href="https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week15_物理引擎与粒子系统.pptx" target="_blank">week15_物理引擎与粒子系统.pptx</a>
 * Lab：<a href="https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework15.pptx">homework15</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/week15-demo.mp4">Demo Video</a>、<a href="https://github.com/gfzheng/MOSAD/blob/master/Materials/Week15.zip">Needed Files</a>
+
+---
+
+### Week 16 cocos2d-x 网络访问与常用算法
+* Lectures: [week16_网络访问与常用算法.pptx](https://github.com/gfzheng/MOSAD/blob/master/Keynotes/week16_%E7%BD%91%E7%BB%9C%E8%AE%BF%E9%97%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95.pptx?raw=true)
+* Lab: [homework16](https://github.com/gfzheng/MOSAD/blob/master/Labs/Homework16.pptx?raw=true)、[Needed Files](https://github.com/gfzheng/MOSAD/blob/master/Materials/week16.zip?raw=true)
